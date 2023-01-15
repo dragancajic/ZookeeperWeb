@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/625779/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: Tue, 22 Feb 2022 04:37:24 UTC
+update_date: Sun, 15 Jan 2023 03:33:15 UTC
 stages:
 - id: 1128
   step: 17230
@@ -34,19 +34,17 @@ topics:
   1:
   - title: Comments
     theory_id: 8170
-  - title: Functions
-    theory_id: 8388
   - title: JavaScript Code Style
     theory_id: 9916
-  - title: Template literals
-    theory_id: 8731
-  - title: Strings and numbers
+  - title: Variables
+    theory_id: 8186
+  - title: Strings and Numbers
     theory_id: 8194
   - title: Arithmetic operators
     theory_id: 8372
-  - title: Variables
-    theory_id: 8186
-  - title: Boolean and logical operators
+  - title: Functions
+    theory_id: 8388
+  - title: Boolean and Logical Operators
     theory_id: 8471
   - title: JSON
     theory_id: 6854
@@ -54,63 +52,33 @@ topics:
     theory_id: 8588
   - title: Null and Undefined
     theory_id: 8564
-  - title: Type conversion
+  - title: Type Conversion
     theory_id: 8380
-  - title: Comparison operators
+  - title: Comparison Operators
     theory_id: 8580
-  - title: Conditional operators
+  - title: Conditional Operators
     theory_id: 8889
+  - title: Introduction to String
+    theory_id: 17747
+  - title: Template literals
+    theory_id: 8731
   2:
-  - title: HTML basics
-    theory_id: 6434
-  - title: HTTP URL
-    theory_id: 6740
-  - title: Tags and attributes
-    theory_id: 7536
-  - title: HTML page structure
-    theory_id: 6491
-  - title: Comments
-    theory_id: 7502
-  - title: Block-level elements
-    theory_id: 7271
-  - title: Inline Elements
-    theory_id: 7518
-  - title: What is CSS
-    theory_id: 7678
-  - title: Connecting CSS to HTML
-    theory_id: 7418
-  - title: Basic syntax
-    theory_id: 7722
-  - title: HTML attributes id and class
-    theory_id: 7527
-  - title: CSS Selectors
-    theory_id: 7738
-  - title: DOM
-    theory_id: 8635
+  - title: Defining functions
+    theory_id: 24012
+  - title: Builtin JS Functions
+    theory_id: 24019
   - title: setTimeout and setInterval
     theory_id: 9680
-  - title: DOM events
-    theory_id: 10857
-  - title: Connecting JS to HTML
-    theory_id: 7510
-  - title: Introduction to Promises
-    theory_id: 9980
-  - title: '"then", "catch" and "finally" methods'
-    theory_id: 9989
-  - title: DOM methods
-    theory_id: 8662
-  - title: The "addEventListener" method
-    theory_id: 8723
-  - title: Anonymous function
+  - title: Anonymous Function
     theory_id: 10865
-  - title: Arrow functions
+  - title: Arrow Functions
     theory_id: 8455
-  - title: Introduction to arrays
+  - title: Introduction to Arrays
     theory_id: 16141
   3:
   - title: Naming variables
     theory_id: 8364
-  - title: Increment and decrement
+  - title: Increment and Decrement
     theory_id: 9102
-  - title: While loops
+  - title: While Loops
     theory_id: 9128

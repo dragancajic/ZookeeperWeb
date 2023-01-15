@@ -66,7 +66,7 @@ files:
     \n(\" ~----( ~   Y.  )\nIt looks like we will soon have more rabbits!`;\n\nanswer\
     \ = input(\"Which habitat # do you need?\");\n"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/225/stages/1130/implement#comment
+feedback_link: https://hyperskill.org/learn/step/17232#comment
 check_profile: hyperskill_node_javascript
 status: Unchecked
 record: -1
